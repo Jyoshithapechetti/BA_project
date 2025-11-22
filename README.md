@@ -58,3 +58,5 @@ Additional Resources
 ⦁	Streamlit API Docs
 ⦁	NLP TF-IDF Feature Extraction Guides
 ⦁	Research papers on adverse-event mining and pharmacovigilance
+
+DATASET: https://www.kaggle.com/datasets/ukveteran/drug-review
