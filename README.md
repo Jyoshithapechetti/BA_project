@@ -14,7 +14,10 @@ The system is deployed through an interactive Streamlit dashboard and includes a
 
 Team Information
 Student Name:
-Jyoshitha Pechetti
+1.Jyoshitha Pechetti [BL.EN.U4CSE22227]
+2.Padma Sagar K [BL.EN.U4CSE22229]
+3.Dhanush K [BL.EN.U4CSE22231]
+4.Shaik Adnan [BL.EN.U4CSE22053]
 Course: Business Analytics 
 Team no: 16
 
